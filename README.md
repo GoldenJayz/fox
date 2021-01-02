@@ -1,2 +1,24 @@
-# fox
-A very basic program built with electron-vue that monitors my website. I will most likely add the ability to enter your own website in the future.
+# electron-vue-example
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
